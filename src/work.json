@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Ödevler kontrol edilecek",
+        "isDone": true
+    },
+    {
+        "title": "Köpekler gezdirilecek",
+        "isDone": false
+    },
+    {
+        "title": "Çöpler Atılacak",
+        "isDone": true
+    },
+    {
+        "title": "Ev temizlenecek",
+        "isDone": false
+    }
+]
